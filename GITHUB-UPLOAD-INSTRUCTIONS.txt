@@ -1,0 +1,13 @@
+Arina Mangla — Online Portfolio V11 — GitHub Pages ready
+
+The HTML pages, CSS, JavaScript, PDFs, photos and ALL videos are included.
+
+How to publish:
+1. Extract this ZIP on your computer.
+2. Create a GitHub repository and upload the EXTRACTED FILES and assets/ FOLDER to the repository's root (not this ZIP). index.html must sit at the repository root.
+3. On GitHub, go to repository Settings > Pages. Choose Deploy from a branch; select main and /(root), then Save.
+4. Once deployment finishes, open the Pages URL shown by GitHub.
+
+To update the site, replace the files in the same repository with the latest version.
+
+Privacy: Any document in your published repository will be publicly accessible. Check images and PDFs for personal or confidential information before publishing.
